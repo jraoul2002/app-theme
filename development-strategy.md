@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+> `App-theme`
 
 write a short description of your project:
 - who would want to use it?
