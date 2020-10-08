@@ -10,11 +10,11 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](https://jraoul2002.github.io/app-theme/)
+![wireframe]()
 
 ## 0. Set-Up
 
-__A User can see my [initial repository](https://github.com/jraoul2002/app-theme) and [live demo]()__
+__A User can see my [initial repository](https://github.com/jraoul2002/app-theme) and [live demo](https://jraoul2002.github.io/app-theme/)__
 
 I have created a github repo and i have cloned to my computer for me.
 I have 4 pages
