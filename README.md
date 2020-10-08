@@ -10,3 +10,5 @@ Anyone interested on web-development so that at the end they get used to HTML CS
 * Git
 * Github
 * Flex-box Grid css file
+
+ More informations to run the project can be found [here](https://github.com/jraoul2002/app-theme/blob/master/development-strategy.md "development-strategy")
